@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace monogame_ascii_rougelike
+namespace AsciiRougelike
 {
     public class AsciiRougelike : Game
     {
