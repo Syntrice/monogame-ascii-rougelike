@@ -1,3 +1,3 @@
 ﻿
-using var game = new monogame_ascii_rougelike.Game1();
+using var game = new monogame_ascii_rougelike.AsciiRougelike();
 game.Run();
